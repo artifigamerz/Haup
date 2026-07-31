@@ -1,0 +1,12 @@
+{
+  "buildCommand": "pnpm install && pnpm --filter @workspace/fitness-arena run build",
+  "outputDirectory": "artifacts/fitness-arena/dist/public",
+  "installCommand": "pnpm install",
+  "framework": null,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "env": {
+    "BASE_PATH": "/"
+  }
+}

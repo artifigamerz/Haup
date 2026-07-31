@@ -1,0 +1,123 @@
+I want to design and develop a modern, premium, fully responsive website for a gym business.
+
+Business Details:
+- Business Category: Gym
+- Business Name: Fitness Arena Gym G6
+- Contact Number: 03001033839
+- Address: AK Center, Aabpara G 6/1, G-6, Islamabad, 44000, Pakistan
+- Rating: 4.9 stars (454 reviews)
+
+Website Requirements:
+
+Create a professional, energetic, modern, and premium-looking gym website that immediately gives visitors a strong fitness-focused impression.
+
+Design:
+- Use an attractive color scheme suitable for a modern gym.
+- Use bold, modern, easy-to-read fonts.
+- Create a powerful hero section with a strong fitness-focused headline.
+- Use high-quality gym/fitness imagery and visually appealing sections.
+- Add smooth animations and transitions throughout the website.
+- Include subtle hover effects on buttons, cards, images, and navigation elements.
+- Use modern gradients, shadows, rounded elements, and other polished UI effects where appropriate.
+- Make the website look professional rather than overly cluttered.
+- Ensure excellent spacing, alignment, and visual hierarchy.
+- Make the entire website fully responsive for desktop, tablet, and mobile.
+
+Suggested Website Sections:
+
+1. Navigation Bar
+- Fitness Arena Gym G6 logo/name
+- Home
+- About
+- Facilities
+- Membership
+- Reviews
+- Contact
+- Prominent "Join Now" button
+
+2. Hero Section
+- Strong headline focused on fitness, strength, and transformation.
+- Short supporting description.
+- "Join Now" and "Contact Us" buttons.
+- Add an impressive gym background image or visual.
+- Include the 4.9-star rating and 454 reviews as a trust indicator.
+
+3. About Fitness Arena Gym G6
+- Introduce the gym professionally.
+- Highlight the gym's focus on fitness, strength, health, and personal progress.
+- Keep the content engaging and concise.
+
+4. Facilities / Features
+Create attractive cards for gym facilities and services, such as:
+- Modern Equipment
+- Strength Training
+- Cardio Area
+- Personal Training
+- Functional Training
+- Dedicated Workout Space
+
+Do not invent specific facilities if they cannot be reasonably represented. Make the sections easy to edit later.
+
+5. Why Choose Us
+Highlight benefits such as:
+- Professional environment
+- Quality equipment
+- Motivating atmosphere
+- Convenient G-6 Islamabad location
+- Fitness-focused community
+
+6. Membership Section
+Create attractive membership cards with editable pricing and features.
+Since actual membership prices have not been provided, use placeholders such as:
+- Basic Membership
+- Standard Membership
+- Premium Membership
+
+Clearly mark prices as editable placeholders rather than claiming they are the actual prices.
+
+7. Reviews Section
+Display the business rating prominently:
+★★★★★
+4.9 out of 5
+Based on 454 reviews
+
+Use a clean testimonial design with placeholder testimonials if actual review text is not available. Clearly structure them so they can easily be replaced with real customer reviews.
+
+8. Location & Contact
+Display:
+Fitness Arena Gym G6
+AK Center, Aabpara G 6/1, G-6,
+Islamabad, 44000, Pakistan
+Phone: 03001033839
+
+Add a prominent "Call Now" button on mobile and desktop.
+
+Include a map/location section if possible.
+
+9. Footer
+Include:
+- Fitness Arena Gym G6
+- Quick navigation links
+- Contact number
+- Address
+- Copyright information
+
+Functional Requirements:
+- All navigation links should work.
+- Buttons should have appropriate hover and click effects.
+- The phone number should be clickable and use a tel: link.
+- Add smooth scrolling between sections.
+- Add a mobile-friendly navigation menu.
+- Optimize the website for fast loading.
+- Use semantic HTML and accessible components.
+- Make sure text has good contrast and is easy to read.
+- Add SEO-friendly title and meta description.
+- Ensure the layout works perfectly on different screen sizes.
+
+Important:
+Do NOT make up business information such as membership prices, opening hours, trainers, facilities, or social media accounts. Use clearly labeled editable placeholders wherever information has not been provided.
+
+Overall Style:
+The final website should feel like a high-end modern fitness brand: bold, energetic, clean, premium, immersive, and motivating. Use tasteful animations and effects without making the website slow or distracting.
+
+Build the website with clean, maintainable code and a professional UI/UX.
